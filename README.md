@@ -1,13 +1,13 @@
 # Traveling Salesman Problem
 
-![readme-banner](/Users/walidah/Desktop/GIT/cl03_2/tsp.jpg)
+![tsp](https://github.com/Himalaw/traveling_salesman/assets/174485780/e91670df-1021-4d0c-a0bb-5bcb81752f48)
 
 ## Abstract:
 <p align="justify"> This project focuses on the implementation and comparison of various heuristics to solve the Euclidean Traveling Salesman Problem (TSP). The TSP is a well-known combinatorial optimization problem where the objective is to find the shortest possible route that visits each city exactly once and returns to the starting point. We implemented several heuristics, including greedy methods and local search techniques, and analyzed their performance using different metrics.</p>
 
 ## Repository Assets:
 
-- [Heuristic code](CODE/)
+- [Heuristics](CODE/)
 - [Benchmark Datasets](DATA/)
 
 ## Business Context:
