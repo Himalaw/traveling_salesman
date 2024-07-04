@@ -7,7 +7,7 @@
 
 ## Repository Assets:
 
-- [Heuristics](CODE/)
+- [Heuristics](code/)
 - [Benchmark Datasets](data/)
 
 ## Business Context:
