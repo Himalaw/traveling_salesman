@@ -8,7 +8,7 @@
 ## Repository Assets:
 
 - [Heuristics](CODE/)
-- [Benchmark Datasets](DATA/)
+- [Benchmark Datasets](data/)
 
 ## Business Context:
 <p align="justify"> In today's globalized world, optimizing logistics and transportation routes is crucial for businesses aiming to enhance their competitiveness and reduce operational costs. Efficient vehicle routing can lead to significant savings in time and money, as well as a reduction in carbon emissions. The TSP is a fundamental problem in logistics optimization, with applications ranging from delivery services to circuit board design.</p>
